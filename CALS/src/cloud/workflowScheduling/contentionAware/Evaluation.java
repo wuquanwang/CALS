@@ -17,7 +17,7 @@ public class Evaluation {
 		//F:\\dax\\SIPHT\\SIPHT.n.100.1.dax		1019
 		//F:\\dax\\CYBERSHAKE\\CYBERSHAKE.n.100.1.dax		151 	支持复制则为51
 		//CYBERSHAKE, MONTAGE, LIGO, GENOME, SIPHT
-		test("D:\\test1.dot", true);
+		test("F:\\dax\\CYBERSHAKE\\CYBERSHAKE.n.50.1.dax", true);
 	}
 	
 	private static void testSynthetic()throws Exception{

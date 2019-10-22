@@ -88,6 +88,8 @@ public class CSolution extends Solution{
 	}
 
 	//--------------------------------validate----------------------------------
+	// a solution yielded by Adaptor.buildFromSolutionShared usually can not pass this validation
+	// because the function isOverlap usually return true
 	public boolean validate(Workflow wf){
 		if(super.validate(wf) == false)
 			return false;
