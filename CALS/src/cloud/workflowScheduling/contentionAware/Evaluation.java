@@ -12,7 +12,7 @@ public class Evaluation {
 //		testSynthetic();
 		
 		//D:/test.dot
-		//D:\\test1.dot					结果：	482 	支持复制则为411
+		//D:\\test1.dot					结果：	482  支持复制则为411
 		//F:\\dax\\floodplain.xml				23400
 		//F:\\dax\\SIPHT\\SIPHT.n.100.1.dax		1019
 		//F:\\dax\\CYBERSHAKE\\CYBERSHAKE.n.100.1.dax		151 	支持复制则为51
