@@ -12,12 +12,12 @@ public class Evaluation {
 //		testSynthetic();
 		
 		//D:/test.dot
-		//D:\\test1.dot					结果：	482 411
+		//D:\\test1.dot					结果：	482 	支持复制则为411
 		//F:\\dax\\floodplain.xml				23400
 		//F:\\dax\\SIPHT\\SIPHT.n.100.1.dax		1019
-		//F:\\dax\\CYBERSHAKE\\CYBERSHAKE.n.100.1.dax		151 51
+		//F:\\dax\\CYBERSHAKE\\CYBERSHAKE.n.100.1.dax		151 	支持复制则为51
 		//CYBERSHAKE, MONTAGE, LIGO, GENOME, SIPHT
-		test("F:\\dax\\CYBERSHAKE\\CYBERSHAKE.n.50.1.dax", true);
+		test("D:\\test1.dot", true);
 	}
 	
 	private static void testSynthetic()throws Exception{
